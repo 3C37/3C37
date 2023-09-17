@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 </div>
 <br/>
 🧰 Cowork tools
