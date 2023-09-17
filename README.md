@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=3C37&color=gradient&customColorList=0,2,2,5,30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=3C37&color=gradient&customColorList=30)
 </div>
 
 # Hi there 👋
@@ -116,7 +116,7 @@
   * OpenCV 실습
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30)
 
 <!--
 **3C37/3C37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
