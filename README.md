@@ -1,7 +1,7 @@
 ### Hi there 👋
-📧 dooho0421@gmail.com
-📜 https://3c37.tistory.com/
-:octocat: https://github.com/3C37
+📧 dooho0421@gmail.com\n
+📜 https://3c37.tistory.com/\n
+:octocat: https://github.com/3C37\n
 
 <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">
 
