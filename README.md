@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=3C37)
+![header](https://capsule-render.vercel.app/api?type=waving&text=3C37&color=gradient&customColorList=0,2,2,5,30)
 ### Hi there 👋
 📧 dooho0421@gmail.com<br/>
 📜 https://3c37.tistory.com<br/>
