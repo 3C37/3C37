@@ -115,6 +115,9 @@
   * 4차 산업혁명
   * OpenCV 실습
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
+
 <!--
 **3C37/3C37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
