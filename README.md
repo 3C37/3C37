@@ -1,4 +1,8 @@
 ### Hi there 👋
+📧 dooho0421@gmail.com
+📜 https://3c37.tistory.com/
+:octocat: https://github.com/3C37
+
 <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">
 
 <!--
