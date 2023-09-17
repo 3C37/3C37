@@ -47,8 +47,9 @@
 ⌨️ IDE
 <div>
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 </div>
 <br/>
