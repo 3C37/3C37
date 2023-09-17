@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&text=3C37)
 ### Hi there 👋
 📧 dooho0421@gmail.com<br/>
 📜 https://3c37.tistory.com<br/>
