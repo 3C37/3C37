@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/3C37-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
-<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="450">   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dooho0421" alt="Solved.ac프로필">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dooho0421" alt="Solved.ac프로필">
 
 ## Skills
 
