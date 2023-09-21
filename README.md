@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=3C37&color=gradient&customColorList=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=3C37&color=gradient&customColorList=30&height=200)
 </div>
 
 # Hi there 👋
@@ -15,7 +15,10 @@
 <img src="https://img.shields.io/badge/3C37-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dooho0421" alt="Solved.ac프로필">
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450"> <img src="https://github-readme-stats.vercel.app/api?username=3C37&count_private=true&theme=gruvbox&show_icons=true" alt="GitHub_stat">
+
+<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dooho0421" alt="Solved.ac프로필"> -->
 
 ## Skills
 
@@ -118,7 +121,7 @@
   * OpenCV 실습
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30)
 
 <!--
 **3C37/3C37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
