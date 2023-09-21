@@ -5,16 +5,17 @@
 
 # Hi there 👋
 
-<a href="mailto:dooho0421@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/dooho0421@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a><br/>  
-<a href="https://3c37.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/코딩__일기장-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-</a><br/>
-<a href="https://github.com/3C37" target="_blank">
-<img src="https://img.shields.io/badge/3C37-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</a>
-
+<div align="center">
+  <a href="https://3c37.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/코딩__일기장-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="https://github.com/3C37" target="_blank">
+    <img src="https://img.shields.io/badge/3C37-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="mailto:dooho0421@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/dooho0421@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>  
+</div>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450"> <img src="https://github-readme-stats.vercel.app/api?username=3C37&count_private=true&theme=gruvbox&show_icons=true" alt="GitHub_stat">
 
