@@ -76,7 +76,7 @@
 🥭 MangoTree Intern (2023.07.03 ~ on going)
 * Selenium과 BeautifulSoup4를 이용한 웹 크롤링 & DB 업로드 코드 작성
 * 백 오피스 사이트 테스팅
-* 위치 기반 Drive-to-Earn dapp 개발
+* 위치 기반 Drive-to-Earn dapp 개발(진행중)
 
 
 📜 Dong-Eui Univ. Capstone Design Project 1 (2022.09.01 ~ 2022.12.04)
