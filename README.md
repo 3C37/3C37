@@ -80,12 +80,25 @@
 
 
 🥭 MangoTree Intern (2023.07.03 ~ on going)
-* Selenium과 BeautifulSoup4를 이용한 웹 크롤링 & DB 업로드 코드 작성
 * 백 오피스 사이트 테스팅
-* M2E(Mobility to Earn) Dapp Android 및 IOS 앱 개발, 배포
-* REST API 작업
-* 웹뷰 + 네이티브 네비게이터 하이브리드 앱 개발
-
+* CruiseYa 프로젝트
+  * 웹앱 개발 (Flutter)
+    * WebView를 통한 JS로 반응형 네이티브 네비게이터 개발
+  * 크롤러 개발 (Python)
+    * Selenium과 BeautifulSoup4를 이용한 웹 크롤링 & DB 업로드 코드 작성
+* M2E(Mobility to Earn) Dapp Metagauge 프로젝트
+  * Front-End (Flutter)
+    * Android 및 IOS 버전 개발, 배포
+    * GPS 데이터 처리
+    * 백그라운드 서비스
+    * SNS 로그인
+    * 다국어화
+    * Web - Native 연동
+    * 반응형 UI 구현 및 UI & UX 개선
+    * FCM 구현
+  * Back-End (Java & Spring, MariaDB)
+    * REST API 개발 및 배포
+    * DB 테이블 생성 및 편집
 
 📜 Dong-Eui Univ. Capstone Design Project 1 (2022.09.01 ~ 2022.12.04)
 * 아두이노를 통한 시각장애인을 위한 장애물 감지조끼 및 어플리케이션 제작
