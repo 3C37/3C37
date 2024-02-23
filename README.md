@@ -121,7 +121,7 @@
 ## Education
 
 
-🏫 Dong-Eui Univ. Information & Communication Engineering Major (2018 ~ 2023)
+🏫 Dong-Eui Univ. Information & Communication Engineering Major 수석 졸업 (2018 ~ 2023)
 * C언어 및 실습(과목 파이썬 대체강의) (A+)
 * 자바 프로그래밍 및 실습 (A+)
 * 알고리즘과 문제 해결 및 실습 (A+)
