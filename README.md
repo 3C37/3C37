@@ -79,7 +79,7 @@
 ## Experience
 
 
-🥭 MangoTree Intern (2023.07.03 ~ on going)
+🥭 MangoTree Intern (2023.07.03 ~ 2024.02.29)
 * 백 오피스 사이트 테스팅
 * CruiseYa 프로젝트
   * 웹앱 개발 (Flutter)
