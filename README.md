@@ -60,7 +60,10 @@
 
 <br>
 
+<div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30)
+</div>
 
 <!--
 **3C37/3C37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
