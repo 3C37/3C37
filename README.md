@@ -17,7 +17,7 @@
   </a>  
 </div>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="450"> <img src="https://github-readme-stats.vercel.app/api?username=3C37&count_private=true&theme=gruvbox&show_icons=true" alt="GitHub_stat">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
 ## 🛠️ Tech Stack
 <p><strong>📱 App & Frontend</strong></p>
